@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="hendr"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-06-08 10.34.41 AM"/>
+        <attribute name="created" value="aGVuZHI7SEVORFJBLUhQVklDVFVTOzIwMjQtMDYtMDg7MTAuMzAuMTkgQU07Mjg3OQ=="/>
+        <attribute name="edited" value="aGVuZHI7SEVORFJBLUhQVklDVFVTOzIwMjQtMDYtMDg7MTAuMzQuNDEgQU07MTsyOTg2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="4" direction="inc" step="1">
+                <output expression="&quot;ISB ATMA LUHUR&quot;" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

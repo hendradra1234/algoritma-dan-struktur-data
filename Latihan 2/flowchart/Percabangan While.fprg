@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="hendr"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-06-08 11.25.11 AM"/>
+        <attribute name="created" value="aGVuZHI7SEVORFJBLUhQVklDVFVTOzIwMjQtMDYtMDg7MTEuMjIuMTEgQU07Mjg3Mw=="/>
+        <attribute name="edited" value="aGVuZHI7SEVORFJBLUhQVklDVFVTOzIwMjQtMDYtMDg7MTEuMjUuMTEgQU07MTsyOTg0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <assign variable="i" expression="1"/>
+            <while expression="i &lt;= 5">
+                <output expression="&quot;ISB ATMA LUHUR&quot;" newline="True"/>
+                <assign variable="i" expression="i + 1"/>
+            </while>
+            <output expression="&quot;Selesai&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
